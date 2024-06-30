@@ -14,4 +14,5 @@ Data markers reflect the magnitude of the earthquake by their size and the depth
 Earthquakes with higher magnitudes appear larger, and earthquakes with greater depth appear darker in colour.
 
 Map is displayed as below:
+It can be viewed from github page through the link: https://jean-liang.github.io/leaflet-challenge/
 ![image](https://github.com/Jean-Liang/leaflet-challenge/assets/160141138/3cd582e3-ed75-42b2-8b95-b73ebda18154)
